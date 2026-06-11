@@ -1,4 +1,4 @@
-# WebApp Attacks & Vulnerabilities with Mitigations
+# PRACTICAL BUG BOUNTY
 
 These are some of the key takeaways from TCM Security's Practical Bug Bounty course. Throughout the course, I learned various web application security testing techniques, common vulnerabilities, and recommended mitigation strategies. The labs provided hands-on experience in identifying, exploiting, and documenting security issues.
 
@@ -26,6 +26,10 @@ These are some of the key takeaways from TCM Security's Practical Bug Bounty cou
 * Input Validation Testing
 * Vulnerability Reporting
 * Security Mitigation Analysis
+  
+
+  <img width="785" height="604" alt="image" src="https://github.com/user-attachments/assets/0704670b-f6cf-48d3-a309-b00e6977e392" />
+
 
 ## Course Outcome
 
