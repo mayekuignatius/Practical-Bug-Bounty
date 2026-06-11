@@ -1,5 +1,8 @@
 # PRACTICAL BUG BOUNTY
 
+<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/f8205523-25e8-4a10-a23f-d08a6d45d1c3" />
+
+
 These are some of the key takeaways from TCM Security's Practical Bug Bounty course. Throughout the course, I learned various web application security testing techniques, common vulnerabilities, and recommended mitigation strategies. The labs provided hands-on experience in identifying, exploiting, and documenting security issues.
 
 | Vulnerability                         | Category       | Description                                                      | Mitigation                                                 |
