@@ -31,7 +31,7 @@ These are some of the key takeaways from TCM Security's Practical Bug Bounty cou
 * Security Mitigation Analysis
   
 
-  <img width="785" height="604" alt="image" src="https://github.com/user-attachments/assets/0704670b-f6cf-48d3-a309-b00e6977e392" />
+  <img width="786" height="200" alt="image" src="https://github.com/user-attachments/assets/0704670b-f6cf-48d3-a309-b00e6977e392" />
 
 
 ## Course Outcome
