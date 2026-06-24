@@ -1,12 +1,8 @@
 # 🔐 Authentication & Authorization Attacks
 
-This section captures my hands-on exploration of authentication and authorization weaknesses commonly encountered during web application security testing.
+Broken logins and sloppy access controls are everywhere. This section is all about my hands-on hunt for those exact flaws. I'm diving into how login mechanisms, session handling, and user permissions can fail, often leaving the door wide open for attackers to steal accounts or sensitive data.
 
-The goal is to understand how flaws in login mechanisms, session management, identity verification, and access control can allow attackers to gain unauthorized access to accounts, functionality, or sensitive data.
-
-Through practical testing, I document the methodology used to identify these vulnerabilities, the impact they can have on an application, and the security practices that help prevent them.
-
-The screenshots and examples included throughout this section demonstrate real testing scenarios, findings, and lessons learned during my practical bug bounty and web application security journey.
+I’ll walk you through my actual testing process: what I look at, how I break things, and why it matters. The screenshots and examples you'll see aren't pulled from a textbook they're straight from my real bug bounty digs, complete with the face-palm moments, the small wins, and the key lessons that actually stuck with me.
 
 There were several labs on this, i will document each attack and PoC with some mitigations to each flaw.
 <img width="952" height="515" alt="image" src="https://github.com/user-attachments/assets/16068cb2-f9d1-40c5-acd4-4b50266fc807" />
