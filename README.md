@@ -31,9 +31,6 @@ These are some of the key takeaways from TCM Security's Practical Bug Bounty cou
 * Security Mitigation Analysis
   
 
-  <img width="786" height="500" alt="image" src="https://github.com/user-attachments/assets/0704670b-f6cf-48d3-a309-b00e6977e392" />
-
-
 ## Course Outcome
 
 The course provided practical experience in identifying common web application vulnerabilities, understanding their impact, exploiting them in a controlled environment, and recommending effective remediation strategies.
